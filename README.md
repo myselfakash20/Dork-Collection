@@ -58,7 +58,7 @@ Follow the repo to get updates as new dorks drop every week.
 
 ## 📬 Connect With Me
 
-👨‍💻 Maintained by [Akash](https://github.com/myselfakash20)  
+👨‍💻 Maintained by [Akash](https://github.com/myselfakash20)  | [Twitter](https://x.com/myselfakash20) | [Medium](https://myselfakash20.medium.com) | [LinkedIn](https://linkedin.com/in/myselfakash20)
 💬 DM for collaboration or ideas!
 
 ---
