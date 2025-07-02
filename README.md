@@ -20,7 +20,7 @@ Welcome to the **Ultimate Dorks Collection** — a curated list of powerful dork
 
 | File Name         | Description                       |
 |------------------|-----------------------------------|
-| `[Github-Dorks](https://github.com/myselfakash20/Dork-Collection/blob/main/GitHub_Advanced_DorkPack.txt)` | Dorks to uncover sensitive files & secrets on GitHub |
+| [Github-Dorks](https://github.com/myselfakash20/Dork-Collection/blob/main/GitHub_Advanced_DorkPack.txt)| Dorks to uncover sensitive files & secrets on GitHub |
 | `Google-Dorks` | *Coming Soon* |
 | `Shodan-Dorks` | *Coming Soon* |
 
