@@ -1,0 +1,128 @@
+GitHub Advanced Dork Pack (Total: 119)
+Generated: 2025-07-02
+
+# Secrets & Credentials
+filename:.env
+filename:.git-credentials
+filename:credentials.json
+filename:.aws/credentials
+filename:id_rsa
+"DB_PASSWORD" language:php
+"API_KEY" language:python
+"password" language:json
+"aws_access_key_id" language:yaml
+"Authorization: Bearer"
+"AWS_SECRET_ACCESS_KEY"
+"SENTRY_DSN"
+"PRIVATE_KEY"
+"SMTP_PASSWORD"
+filename:.s3cfg
+filename:.npmrc _auth
+"heroku_api_key"
+"bitbucket_token"
+"GITHUB_TOKEN"
+"basic_auth_credentials"
+# Cloud & DevOps
+filename:.dockercfg
+filename:docker-compose.yml
+filename:.kube/config
+filename:.helm/helm_values.yaml
+filename:cloudbuild.yaml
+filename:azure-pipelines.yml
+"bucket" AND "s3" language:json
+"gcloud" AND "keyFile" language:json
+"terraform" AND "provider" language:hcl
+filename:config language:hcl
+"ansible_password"
+filename:secrets.yml
+"CI_SECRET_KEY"
+"gcp_keyfile.json"
+"kubernetes.io/hostname"
+filename:.circleci/config.yml
+"packer" AND "ami"
+"vault_password_file"
+filename:terraform.tfvars
+filename:.ansible.cfg
+# Database Info
+filename:pg_hba.conf
+filename:tnsnames.ora
+filename:sqlnet.ora
+filename:database.yml
+filename:settings.py "DATABASES"
+"jdbc:mysql://"
+"mongodb://"
+"root:root"
+"admin:admin" filetype:json
+"db_password" language:php
+"MYSQL_ROOT_PASSWORD"
+filename:local.settings.json
+filename:wp-config.php
+"DB_HOST" AND "DB_USER"
+"type:sqlite"
+"REDIS_URL"
+"DATABASE_URL"
+"sql_password"
+filename:database.ini
+"db_connection_string"
+# Dev Endpoints & Internal Logic
+"staging" AND "api"
+"dev." AND "endpoint"
+"test" AND "authorization"
+"internal" AND "api"
+filename:swagger.json
+"x-api-key"
+"client_secret"
+filename:openapi.yaml
+"debug=true"
+"admin_token"
+"internal-api"
+"sandbox-api"
+"dev.api_key"
+"test_key"
+"internal_token"
+filename:postman_environment.json
+"disable_authentication": true
+filename:debug.log
+"admin_password"
+"test" AND "access_token"
+# OAuth & Auth Tokens
+"oauth_token"
+"slack_token"
+"auth_token"
+"client_id" AND "client_secret"
+"access_token"
+filename:oauth.json
+"firebase" AND "authDomain"
+"jwt_secret"
+"secret_key_base"
+"session_id"
+"dropbox_token"
+"discord_token"
+"google_oauth_client"
+"refresh_token"
+"consumer_secret"
+filename:.env.development
+"session_token"
+"cookie_secret"
+"facebook_access_token"
+"linkedin_client_secret"
+# Emails & User Info
+"@gmail.com"
+"@yahoo.com"
+"email":"admin"
+"user_password"
+"user_email"
+"login_password"
+filename:users.json
+"username" AND "password"
+"mail_password"
+"support@company.com"
+"user_name":"admin"
+"email":"test@"
+"login_token"
+"reset_password_token"
+"user_pass"
+"plaintext_password"
+"credentials.json" AND "email"
+"users.db"
+"login_email"
